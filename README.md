@@ -65,16 +65,13 @@ Current saved run in notebook 02 selected:
 .
 |-- README.md
 |-- requirements.txt
-|-- dataset/
+|-- datasets.zip
 |   |-- conjura_mmm_data.csv
 |   |-- conjura_mmm_data_dictionary.xlsx
 |   `-- conjura_mmm_data_cleaned.parquet (generated)
 |-- notebooks/
 |   |-- 01_data_cleaning_eda.ipynb
 |   `-- 02_revenue_forecasting_channel_recommendation.ipynb
-|-- references/
-|   `-- agent-usage-log.md
-`-- src/
 ```
 
 ## How to Run
