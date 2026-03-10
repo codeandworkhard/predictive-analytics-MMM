@@ -65,7 +65,7 @@ Current saved run in notebook 02 selected:
 .
 |-- README.md
 |-- requirements.txt
-|-- datasets.zip
+|-- dataset.zip
 |   |-- conjura_mmm_data.csv
 |   |-- conjura_mmm_data_dictionary.xlsx
 |   `-- conjura_mmm_data_cleaned.parquet (generated)
