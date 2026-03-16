@@ -72,6 +72,7 @@ Current saved run in notebook 02 selected:
 |-- notebooks/
 |   |-- 01_data_cleaning_eda.ipynb
 |   `-- 02_revenue_forecasting_channel_recommendation.ipynb
+|-- src.zip
 ```
 
 ## How to Run
@@ -105,8 +106,3 @@ Current allocation output in notebook 02 (`total_future_budget = 100000`):
 - `GOOGLE_SHOPPING_SPEND`: `0.0000%`
 - `GOOGLE_DISPLAY_SPEND`: `0.0000%`
 - `GOOGLE_VIDEO_SPEND`: `0.0000%`
-
-## AI/Agent Disclosure
-
-Agent usage and verification decisions are documented in:
-- `references/agent-usage-log.md`
